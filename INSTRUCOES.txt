@@ -1,0 +1,12 @@
+para compilar: 
+    make deburger
+
+sobre o mapa:
+    O arquivo de mapa deve se chamar 'mapa.txt'
+    Na primeira linha deve conter o numero de linhas e o numero de colunas(nessa ordem)
+    lembre-se de contar o caracter de quebra de linha no numero de colunas
+    Os caracteres que formam o mapa devem seguir o padrao da especificacao do trabalho
+
+sobre o jogo:
+    Digite apenas uma tecla de movimento por vez e aperte enter após digitar o caracter
+    
